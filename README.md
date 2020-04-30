@@ -15,29 +15,7 @@ Tools used :
 3) Tomcat server.
 
 How Projects work?
-![](db.png)
-
-
-![](db2.png)
-
-
-
-![](libr1.png)
-
-
-![](libr2.png)
-
-
-![](lib4.jpg)
-
-
-![](lib5.png)
-
-
-![](lib6.png)
-
-
-![](lib7.jpg)
-
-
-![](lib8.png)
+Project contains a navigation bar for admin and for new users .
+If someone wants to issue a book he mist register first on the portal and should remember his email and password
+ 
+ 
