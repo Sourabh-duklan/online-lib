@@ -27,9 +27,25 @@ database images:
 ![](db2.png)
 
 UI images:
-![](libr.png)
+![](libr2.png)
 
 ![](libr1.png)
 
-![](lib3.png) 
+Class diagram:
+![](lib8.png)
+
+Dataflow diagram:
+![](lib4.jpg)
+
+Activity digram:
+![](lib5.png)
+
+ER diagram:
+![](lib6.png)
+
+Sequential diagram:
+![](lib7.jpg)
+
+
+
  
