@@ -15,3 +15,16 @@ Tools used :
 3) Tomcat server.
 
 How Projects work?
+![](db.png)
+
+
+![](db2.png)
+
+
+![](download.png)
+
+
+![](lib1.png)
+
+
+![](lib2.png)
