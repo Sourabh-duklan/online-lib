@@ -17,6 +17,9 @@ Tools used :
 How Projects work?
 
 Project contains a navigation bar for admin and for new users .
-If someone wants to issue a book he mist register first on the portal and should remember his email and password
+If someone wants to issue a book he must register first on the portal and should remember his email and password.
+Then he has to login again in the system to issue a book.
+admin has a database where he can see who has issued a book followed by his name and email.
+
  
  
