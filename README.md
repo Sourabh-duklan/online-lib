@@ -15,6 +15,7 @@ Tools used :
 3) Tomcat server.
 
 How Projects work?
+
 Project contains a navigation bar for admin and for new users .
 If someone wants to issue a book he mist register first on the portal and should remember his email and password
  
